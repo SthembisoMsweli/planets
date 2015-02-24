@@ -1,2 +1,2 @@
-# sya 
-* Ignore all file which are fastaq
+# ignore all files that end in .fastq
+*.fastq
